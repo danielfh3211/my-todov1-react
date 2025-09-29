@@ -313,7 +313,7 @@ function TodoApp() {
 
       <div className="max-w-2xl mx-auto">
         {/* HEADER */}
-        <div className="text-center mb-8 animate-fade-in">
+        <div className="text-center mb-8">
           <h1 className="text-5xl font-bold text-white mb-2 tracking-tight">
             My Todo App
           </h1>
